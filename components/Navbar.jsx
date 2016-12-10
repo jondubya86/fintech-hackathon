@@ -8,6 +8,7 @@ const Navbar = React.createClass({
       <div>
         <Link to='/'>Home</Link>
         <Link to='/page1'>Page 1</Link>
+        <Link to='/stock'>Stocks</Link>
       </div>
     )
   }
